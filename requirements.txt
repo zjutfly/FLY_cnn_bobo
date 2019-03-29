@@ -1,0 +1,6 @@
+scikit-learn
+scipy
+numpy
+tensorflow
+keras
+python3.6 不兼容python3.7
